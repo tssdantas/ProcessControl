@@ -21,7 +21,7 @@ All the functions are contained in a single .m file
 The main features are: 
 * **2 Input & 2 Output process described by a generic Transfer Function model, converted to a Step response based space state MIMO model**
 * **No restrictions on Input & Output**
-* **Prediction Horizon is determined automatically from step respon**
+* **Prediction Horizon is determined automatically from step response model**
 
 ## Licensing information for this project.
 
