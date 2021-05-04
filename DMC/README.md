@@ -1,8 +1,7 @@
 ---
+Title: Dynamic Matrix Control
 permalink: https://github.com/tssdantas/Process_Control_Portfolio/DMC
-title: Dynamic Matrix Control
 ---
-
 
 ## Description the project.
 
@@ -20,7 +19,7 @@ All the functions are contained in a single .m file
 ## Main features of the control algorithm
 
 The main features are: 
-* **2 Input & 2 Output process described by a Transfer Function model, converted to a Step response based space state MIMO model**
+* **2 Input & 2 Output process described by a generic Transfer Function model, converted to a Step response based space state MIMO model**
 * **No restrictions on Input & Output**
 
 ## Licensing information for this project.
