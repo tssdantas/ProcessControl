@@ -24,7 +24,7 @@ The main features are:
 * **Prediction Horizon is determined automatically from step response model**
 
 The results from the simulation:
-![picture](./img/Results.png)
+![picture](./img/Results.jpg)
 
 ## Licensing information for this project.
 
