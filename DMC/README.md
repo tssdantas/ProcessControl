@@ -12,9 +12,9 @@ control algorithm" presented at the Joint Automatic Control conference, San Fran
 
 ## Requirements and Instruction.
 
-To run this code (DMCsim.m) you need to have installed MATLAB software from [Mathworks](https://www.mathworks.com/)
+To run this code  you need to have installed MATLAB software from [Mathworks](https://www.mathworks.com/)
 
-All the functions are contained in a single .m file
+All the functions are contained in a single .m file (DMCsim.m).
 
 ## Main features of the control algorithm
 
