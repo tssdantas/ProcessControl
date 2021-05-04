@@ -12,13 +12,13 @@ control algorithm" presented at the Joint Automatic Control conference, San Fran
 
 ## Requirements and Instruction.
 
-To run this code you need to have installed MATLAB software from [Mathworks](https://www.mathworks.com/)
+To run this code (DMCsim.m) you need to have installed MATLAB software from [Mathworks](https://www.mathworks.com/)
 
 All the functions are contained in a single .m file
 
 ## Main features of the control algorithm
 
-The main features are: 
+The main features of the control algorithm in "DMCsim.m" are: 
 * **2 Input & 2 Output process described by a generic Transfer Function model, converted to a Step response based space state MIMO model**
 * **No restrictions on Input & Output**
 * **Prediction Horizon is determined automatically from step response model**
