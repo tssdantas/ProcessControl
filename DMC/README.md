@@ -23,6 +23,9 @@ The main features are:
 * **No restrictions on Input & Output**
 * **Prediction Horizon is determined automatically from step response model**
 
+The results from the simulation:
+[picture](img/Results.tif)
+
 ## Licensing information for this project.
 
 This code is licensed under GNU General Public license v3.0
