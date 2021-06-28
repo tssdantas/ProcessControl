@@ -1,6 +1,6 @@
 ## Process Control Portfolio
 
-This repository contains a porfolio of process control code created to showcase some of my knowledge in this subject.
+This repository contains a porfolio of process control code created to showcase some of my knowledge in this field.
 
 ## Contents
 - ### Optimization of a test function in the C++ language.
