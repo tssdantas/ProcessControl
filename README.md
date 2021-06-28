@@ -1,6 +1,6 @@
 ## Process Control Portfolio
 
-This repository contains a porfolio of process control code created to showcase some of my knowledge in this field.
+This repository contains a porfolio of process control simulations created to showcase some of my knowledge in this field.
 
 ## Contents
 - ### Model predictive control with linear space-state models.
