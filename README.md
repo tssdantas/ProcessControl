@@ -1,4 +1,4 @@
-## Process Control Portfolio
+## Process Control Implementations
 
 This repository contains a porfolio of process control simulations created to showcase some of my knowledge in this field.
 
